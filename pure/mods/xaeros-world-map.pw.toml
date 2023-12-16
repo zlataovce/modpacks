@@ -1,0 +1,13 @@
+name = "Xaero's World Map"
+filename = "XaerosWorldMap_1.37.1_Forge_1.12.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d08f0c6e04519c5ef140b9becb4ac5e4eafa7191"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4911823
+project-id = 317780
