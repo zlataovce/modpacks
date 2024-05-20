@@ -494,7 +494,3 @@ metafile = true
 file = "mods/zerocore.pw.toml"
 hash = "60fd10d77b6b1c06696b082895f75e1de441d9a3b31c5b6289461d0445318a5f"
 metafile = true
-
-[[files]]
-file = "test.sh"
-hash = "db7892756485b6c8f07d7e58a83e72968b8be6e1230a0eec44becb31ab2b41aa"
