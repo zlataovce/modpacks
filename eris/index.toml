@@ -131,11 +131,6 @@ hash = "73d04361ac8c44b7128d1acf9bf4384f8e573ff3308065047f8675112540c9c9"
 metafile = true
 
 [[files]]
-file = "mods/durability-tooltip.pw.toml"
-hash = "4a66eb10fbfd1a9cc225eb6c4eadfc03a7938e0427641d25802b7d32748f7a11"
-metafile = true
-
-[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "a2888c614afd7ad2e06e8b6e5a1d2d8fc18e950b0c3855ae6adb459eb3778a30"
 metafile = true
@@ -393,6 +388,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "4ffe582cac7b3cea7278ba2246d392df7240b45c2cdb74243025c8a4c1650894"
+metafile = true
+
+[[files]]
+file = "mods/the-one-probe.pw.toml"
+hash = "df1685bdc334c1441facd8cb06430c45f18cd9132865fa777746cc490befd433"
 metafile = true
 
 [[files]]
