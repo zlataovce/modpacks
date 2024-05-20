@@ -1,0 +1,13 @@
+name = "eris"
+author = "zlataovce"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6fb280e781865d9b0438f00b2b80e089ae95b643c08aa43b52c9a994d7ea4246"
+
+[versions]
+forge = "47.2.32"
+minecraft = "1.20.1"
