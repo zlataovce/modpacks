@@ -156,6 +156,11 @@ hash = "dec4a848fbbd45662a533444aa0749c230deb718b5117ceb279963e91ac78f85"
 metafile = true
 
 [[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "5bd0506bc0be25116b234f2b5af9447f60d82ae1cb6c5be4e12d8841f6c2501c"
+metafile = true
+
+[[files]]
 file = "mods/flib.pw.toml"
 hash = "aaaae1c159be64f990d869e13bc75bc237d3850d2f3c42472b3b842670651697"
 metafile = true
