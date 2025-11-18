@@ -1,0 +1,13 @@
+name = "Ex Nihilo: Sequentia"
+filename = "exnihilosequentia-1.20.1-5.0.0-build.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d891fc0b4c52c3a2ef46be7fe277348d4ad3db7d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5988562
+project-id = 400012

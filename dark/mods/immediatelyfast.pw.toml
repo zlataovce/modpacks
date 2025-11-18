@@ -1,0 +1,13 @@
+name = "ImmediatelyFast"
+filename = "ImmediatelyFast-NeoForge-1.5.2+1.20.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4e63aa239bd640286a08dff5f0b82e1e5e4d4706"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6997260
+project-id = 686911

@@ -1,0 +1,13 @@
+name = "dark"
+author = "zlataovce"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ef53d0c401d6f3dc195d5ec31e0ce5a1903e466147a47fe8bf49f9472c26b203"
+
+[versions]
+minecraft = "1.20.1"
+neoforge = "47.1.106"
