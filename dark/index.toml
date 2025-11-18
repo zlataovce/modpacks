@@ -166,6 +166,11 @@ hash = "d2d57dc5270d1adbedc96b8f99fe839a0725abd4fbbbae100b27f1654c6ce2ad"
 metafile = true
 
 [[files]]
+file = "mods/lionfish-api.pw.toml"
+hash = "60af8798dbf3e300a5af44125595afcd5d1e70072448444156364f222cc03e98"
+metafile = true
+
+[[files]]
 file = "mods/mantle.pw.toml"
 hash = "4f818ebe7421a0ae41154fb479273dab515993b76c194c815d824f98e4f53a5e"
 metafile = true
@@ -178,6 +183,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "e72f73611904e14d915418f0e3c6cb483cdc600e211375c2eceb393fec5b80f1"
+metafile = true
+
+[[files]]
+file = "mods/novacore.pw.toml"
+hash = "593899fa3133de24cdd943513530a0612ebf9ac48f0bc9b9da705744a7f4429f"
 metafile = true
 
 [[files]]
@@ -267,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrablender.pw.toml"
-hash = "570d8ea67256d5fdcbba9504cb77c49dac326c1116d84e3c48ae5a6113fdf8a7"
+hash = "fde3d3b1607636100e382dce1bba80ab4608ebfa1ef888a37b86bc8c7dcbafe5"
 metafile = true
 
 [[files]]
